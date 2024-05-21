@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://i.ibb.co/RppQfY7/1714718970277.jpg)" alt="aws" width="40" height="40"/>
+<img src="[](https://i.ibb.co/RppQfY7/1714718970277.jpg)" alt="aws" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
