@@ -1,4 +1,4 @@
-[([https://media.licdn.com/dms/image/D5616AQERmkuoh8hz-g/profile-displaybackgroundimage-shrink_350_1400/0/1703244330999?e=1711584000&v=beta&t=opbRjFoCUpH3bgYEuaXFE72dG-PTl0fWW5xVdII0pEk](https://i.ibb.co/RppQfY7/1714718970277.jpg))]
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://i.ibb.co/RppQfY7/1714718970277.jpg)" alt="aws" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Abrar Fahim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
