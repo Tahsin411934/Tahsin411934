@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abrar Fahim Tahsin</h1>
 <h3 align="center">Web Developer || Front-end Developer || Full stack Developer || mern stack Developer</h3>
 
-# 💫 About Me:
-I consider myself a fast learner and a creative web developer. My passion for programming runs deep, making coding an integral part of my life. I am constantly eager to explore new technologies, seeking to enhance my skills and contribute actively to the development community. My goal is to continually grow and apply my knowledge to innovate in web development.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tazin.tanim.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahsininsta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-fahim-af) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abrarfahimtasin) 
 
