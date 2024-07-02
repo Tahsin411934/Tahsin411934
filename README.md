@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abrar Fahim Tahsin</h1>
 
-
-## :chart_with_upwards_trend: Current Stats
+## 💻 : About Me
 
 <br />
 <p align="center">a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a deep enthusiasm for creating robust and scalable web applications.</p>
