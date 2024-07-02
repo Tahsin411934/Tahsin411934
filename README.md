@@ -6,9 +6,15 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center" >
+<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsin411934&theme=dark&hide_border=false" />
 </p>
+
+<br />
+<p align="center">
+  [![Stack Count](https://img.shields.io/badge/Stack%20Count-XX%20Stacks-brightgreen)](https://your-real-time-stack-count-service)
+</p>
+
 
 <br/>
 
