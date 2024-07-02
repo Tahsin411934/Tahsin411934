@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abrar Fahim Tahsin</h1>
 <h4 align="center">a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a deep enthusiasm for creating robust and scalable web applications.</h4>
 ## :chart_with_upwards_trend: Current Stats
-
-<br />
-## :chart_with_upwards_trend: Current Stats
-
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsin411934&theme=dark&hide_border=false" />
