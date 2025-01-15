@@ -8,8 +8,9 @@
 
 <br />
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsin411934&theme=dark&hide_border=false" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsin411934&theme=dark&hide_border=false" />
 </p>
+
 
 <br/>
 
